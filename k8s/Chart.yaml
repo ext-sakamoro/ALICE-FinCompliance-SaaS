@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_FINCOMPLIANCE
+name: alice-fincompliance
 description: ALICE FinCompliance
 type: application
 version: 0.1.0
